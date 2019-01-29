@@ -1,0 +1,12 @@
+H:\Computer Science\Semester 2\Semester 2 Test 1\Drag and Drop 2\Drag and Drop 2\bin\Debug\Drag and Drop 2.exe.config
+H:\Computer Science\Semester 2\Semester 2 Test 1\Drag and Drop 2\Drag and Drop 2\bin\Debug\Drag and Drop 2.exe
+H:\Computer Science\Semester 2\Semester 2 Test 1\Drag and Drop 2\Drag and Drop 2\bin\Debug\Drag and Drop 2.pdb
+H:\Computer Science\Semester 2\Semester 2 Test 1\Drag and Drop 2\Drag and Drop 2\bin\Debug\Drag and Drop 2.xml
+H:\Computer Science\Semester 2\Semester 2 Test 1\Drag and Drop 2\Drag and Drop 2\obj\Debug\Drag and Drop 2.vbprojAssemblyReference.cache
+H:\Computer Science\Semester 2\Semester 2 Test 1\Drag and Drop 2\Drag and Drop 2\obj\Debug\Drag_and_Drop_2.Form1.resources
+H:\Computer Science\Semester 2\Semester 2 Test 1\Drag and Drop 2\Drag and Drop 2\obj\Debug\Drag_and_Drop_2.Resources.resources
+H:\Computer Science\Semester 2\Semester 2 Test 1\Drag and Drop 2\Drag and Drop 2\obj\Debug\Drag and Drop 2.vbproj.GenerateResource.cache
+H:\Computer Science\Semester 2\Semester 2 Test 1\Drag and Drop 2\Drag and Drop 2\obj\Debug\Drag and Drop 2.vbproj.CoreCompileInputs.cache
+H:\Computer Science\Semester 2\Semester 2 Test 1\Drag and Drop 2\Drag and Drop 2\obj\Debug\Drag and Drop 2.exe
+H:\Computer Science\Semester 2\Semester 2 Test 1\Drag and Drop 2\Drag and Drop 2\obj\Debug\Drag and Drop 2.xml
+H:\Computer Science\Semester 2\Semester 2 Test 1\Drag and Drop 2\Drag and Drop 2\obj\Debug\Drag and Drop 2.pdb
