@@ -34,6 +34,7 @@ Partial Class Form1
         Me.lbl10 = New System.Windows.Forms.Label()
         Me.lbl6 = New System.Windows.Forms.Label()
         Me.lblCounter = New System.Windows.Forms.Label()
+        Me.lblLoss = New System.Windows.Forms.Label()
         Me.SuspendLayout()
         '
         'lbl2x1
@@ -144,11 +145,21 @@ Partial Class Form1
         Me.lblCounter.TabIndex = 12
         Me.lblCounter.Text = "Label1"
         '
+        'lblLoss
+        '
+        Me.lblLoss.AutoSize = True
+        Me.lblLoss.Location = New System.Drawing.Point(118, 248)
+        Me.lblLoss.Name = "lblLoss"
+        Me.lblLoss.Size = New System.Drawing.Size(39, 13)
+        Me.lblLoss.TabIndex = 13
+        Me.lblLoss.Text = "Label1"
+        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.ClientSize = New System.Drawing.Size(314, 285)
+        Me.Controls.Add(Me.lblLoss)
         Me.Controls.Add(Me.lblCounter)
         Me.Controls.Add(Me.lbl4)
         Me.Controls.Add(Me.lbl2)
@@ -180,4 +191,5 @@ Partial Class Form1
     Friend WithEvents lbl10 As Label
     Friend WithEvents lbl6 As Label
     Friend WithEvents lblCounter As Label
+    Friend WithEvents lblLoss As Label
 End Class
